@@ -8,3 +8,7 @@ def my_collect(array)
   end
   collection
 end
+
+my_collect(["Nolan"]) do |name|
+  puts name
+end

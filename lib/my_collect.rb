@@ -9,6 +9,4 @@ def my_collect(array)
   collection
 end
 
-my_collect(["Nolan"]) do |name|
-  puts name
-end
+array = ["ruby", "js", "python"]

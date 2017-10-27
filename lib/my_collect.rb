@@ -9,4 +9,3 @@ def my_collect(array)
   collection
 end
 
-array = ["ruby", "js", "python"]
